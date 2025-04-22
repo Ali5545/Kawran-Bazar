@@ -1,0 +1,15 @@
+body,img
+{
+	text-align:center;
+	zoom:105%;
+}
+a
+{
+	text-align: center;
+	zoom:50%;
+}
+body 
+{
+  background-image: url("firstpage.png");
+  background-color: #cccccc;
+}
